@@ -11,7 +11,7 @@ const Footer = () => {
         <div className="container p-5">
           <div className="row">
             <div className="col-12 col-lg-3 col-md-6 col-sm-12 col-xl-2 pb-0 mb-0 mt-2 footer_logo" style={{ height: "20px" }}>
-              <Link to="/"><img src="IMG/Fruit-logo.png" alt="Logo" width="100%" height="20" /></Link>
+              <Link to="/"><img src="IMG/fruit.png" alt="Logo" width="100%" height="20" /></Link>
             </div>
             <div className="col-12 col-lg-3 col-md-6 col-sm-12 col-xl-4 mt-2 text-center">
               <h5>Contact</h5>
